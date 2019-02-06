@@ -1,0 +1,4 @@
+#Thu Jan 10 11:00:09 EST 2019
+base.0=/Users/arham.akbar/Desktop/flutterProjects/flaretest/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
